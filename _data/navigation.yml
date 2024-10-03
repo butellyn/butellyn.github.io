@@ -1,0 +1,30 @@
+# main links
+#main:
+ # - title: "Quick-Start Guide"
+  #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
+  # - title: "Outreach"
+  #   url: /Outreach/
+  # - title: "Press"
+  #  url: /Press/
+
+main:
+  - title: "Publications"
+    url: /Publications/
+  - title: "Collaborators"
+    url: /Collaborators/
+  - title: "Curriculum Vitae"
+    url: /CurriculumVitae/
+  - title: "News"
+    url: /News/
+
+
+#- title: "About"
+ #   url: https://github.com/jlnrd/jlnrd.github.io
